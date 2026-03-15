@@ -21,6 +21,7 @@ L’outil se concentre sur la manipulation d’images au format **BMP** (8 bits 
 - **Charger et sauvegarder** des images BMP (noir et blanc ou couleur)
 - **Afficher les informations** de l’image (dimensions, profondeur, etc.)
 
+
 #### Filtres et traitements disponibles :
 - Négatif
 - Ajustement de la luminosité
@@ -28,12 +29,14 @@ L’outil se concentre sur la manipulation d’images au format **BMP** (8 bits 
 - Égalisation d’histogramme (amélioration automatique du contraste)
 - Compatible avec les images en niveaux de gris et en couleur (traitement via l’espace YUV pour les images couleur)
 
+
 ## Organisation du projet
 - `bmp8.c:` : Gestion des images BMP 8 bits et filtres associés
 - `bmp24.c` : Gestion des images BMP 24 bits et filtres associés
 - `bmp24.h` : Structures et prototypes pour la manipulation d’images BMP (lecture, écriture, effets, filtres, gestion mémoire…)
 - `bmp24equalize.h` : Déclaration de la fonction d’égalisation d’histogramme.
 - `bmp24equalize.c` : Implémentation de l’égalisation d’histogramme (et conversions RGB <-> YUV).
+
 
 ## Bugs connus / Limitations
 
