@@ -3,7 +3,7 @@
 **Auteurs : Ivan Perez & Aurelien Devaux-Rivière**
 
 ---
-
+ 
 ## Présentation
 
 Ce projet est une application complète de traitement d’images écrite en langage C.  
