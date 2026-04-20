@@ -1,7 +1,7 @@
 # Projet de traitement d’images BMP
 
 **Auteurs : Ivan Perez & Aurelien Devaux-Rivière**
-
+    
 ---  
  
 ## Présentation
