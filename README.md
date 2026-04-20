@@ -14,7 +14,7 @@ Elle propose deux interfaces:
 L’outil se concentre sur la manipulation d’images au format **BMP** (8 bits en niveaux de gris et 24 bits en couleur).
     
 ---
-
+   
 ## Fonctionnalités
 
 - **Prise en charge des images BMP 8 bits et 24 bits**
