@@ -2,7 +2,7 @@
 
 **Auteurs : Ivan Perez & Aurelien Devaux-Rivière**
 
----
+---  
  
 ## Présentation
 
