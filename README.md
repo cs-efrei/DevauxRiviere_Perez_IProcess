@@ -12,7 +12,7 @@ Elle propose deux interfaces:
 - Une interface graphique (GUI) basée sur GTK3
 
 L’outil se concentre sur la manipulation d’images au format **BMP** (8 bits en niveaux de gris et 24 bits en couleur).
-
+    
 ---
 
 ## Fonctionnalités
